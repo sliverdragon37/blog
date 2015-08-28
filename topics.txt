@@ -1,0 +1,14 @@
+* Proofs/Trust/Engineering
+* How physical parts work
+* How software parts work
+  + memory allocation
+  + garbage collection
+* Life as a grad student:
+  + hours
+  + exercise
+  + sanity
+  + values
+  + money
+* Seattle
+  + Coffee
+  + 
